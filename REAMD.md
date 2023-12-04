@@ -16,3 +16,6 @@ git chechout -b branchname   加-b 表示创建分支brandhname 并切换到创�
 git branch branchname 
 git chechout branchname
 -------------------------------
+git remote add lilin https://github.com/wsk3373/lilin.git
+git remote rm lilin
+git remoter set-url lilin https://github.com/wsk3373/lilin.git
